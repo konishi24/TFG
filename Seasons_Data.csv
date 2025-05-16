@@ -1,0 +1,437 @@
+Season,Player,Chosen Fighter,Opponent,Odds,W_L,Fight Length,Result,Weight Class,Fight Location,M_F,Ref
+Season 01,Aaron,Jessica Andrade,Lauren Murphy,-500,W, 900:00,UD,Flyweight (W),Main Card,F,O. Maia
+Season 01,Aaron,Da-Woon Jung,Devin Clark,-250,L, 900:00,UD,Light Heavyweight,Main Card,M,M. Goddard
+Season 01,Alex,Thiago Moises,Melquizael Costa,-380,W, 545:00,Round 2 Sub,Lightweight,Prelim,M,O. Maia
+Season 01,Alex,Doo-Ho Choi,Kyle Nelson,-185,L, 900:00,Draw,Featherweight,Main Card,M,C. Tognoni
+Season 01,Chika,Thiago Moises,Melquizael Costa,-380,W, 545:00,Round 2 Sub,Lightweight,Prelim,M,O. Maia
+Season 01,Chika,Tatsuro Taira,Jesus Aguilar,-1200,W, 260:00,Round 1 Sub,Flyweight,Prelim,M,C. Tognoni
+Season 01,Chika,Jack Della Maddelana,Randy Brown,-330,W, 133:00,Round 2 Sub,Welterweight,Main Card,M,M. Goddard
+Season 01,Chika,Zac Pauga,Jordan Wright,-275,W, 900:00,UD,Light Heavyweight,Main Card,M,M. Smith
+Season 01,Chika,Joe Solecki,Carl Deaton,-600,W, 595:00,Round 2 Sub,Lightweight,Prelim,M,J. Herzog
+Season 01,Chika,Jon Jones,Ciryl Gane,-180,W, 124:00,Round 1 Sub,Heavyweight,Main Card,M,M. Goddard
+Season 01,Chika,Said Nurmagomedov,Jonathan Martinez,-230,L, 900:00,UD,Bantamweight,Main Card,M,K. Peterson
+Season 01,Goro,Gilbert Burns,Neil Magny,-550,W, 255:00,Round 1 Sub,Welterweight,Main Card,M,F. Portella
+Season 01,Goro,Tatsuro Taira,Jesus Aguilar,-1200,W, 260:00,Round 1 Sub,Flyweight,Prelim,M,C. Tognoni
+Season 01,Goro,Islam Makhachev,Alexander Volkanovski,-375,W, 1500:00,UD,Lightweight,Main Card,M,M. Goddard
+Season 01,Goro,Mayra Bueno Silva,Lina Lansberg,-500,W, 585:00,Round 2 Sub,Bantamweight (W),Prelim,F,J. Montalvo
+Season 01,Goro,Nurullo Aliev,Rafael Alves,-190,W, 900:00,MD,Lightweight,Prelim,M,M. Smith
+Season 01,Goro,Jon Jones,Ciryl Gane,-180,W, 124:00,Round 1 Sub,Heavyweight,Main Card,M,M. Goddard
+Season 01,Goro,Petr Yan,Merab Dvalishvili,-275,L, 1500:00,UD,Bantamweight,Main Card,M,H. Dean
+Season 01,Ian,Josiane Nunes,Zarah Fairn,-560,W, 900:00,UD,Featherweight (W),E-Prelim,F,M. Goddard
+Season 01,Ian,Marcin Tybura,Blagoy Ivanov,-140,W, 900:00,UD,Heavyweight,Main Card,M,M. Smith
+Season 01,Ian,Islam Makhachev,Alexander Volkanovski,-375,W, 1500:00,UD,Lightweight,Main Card,M,M. Goddard
+Season 01,Ian,Alexander Hernandez,Jim Miller,-235,W, 900:00,UD,Lightweight,Main Card,M,H. Dean
+Season 01,Ian,Tatiana Suarez,Montana De La Rosa,-800,W, 471:00,Round 2 Sub,Flyweight (W),Main Card,F,C. Tognoni
+Season 01,Ian,Bo Nickal,Jaimie Pickett,-2000,W, 174:00,Round 1 Sub,Middleweight,Prelim,M,K. Peterson
+Season 01,Ian,Said Nurmagomedov,Jonathan Martinez,-230,L, 900:00,UD,Bantamweight,Main Card,M,K. Peterson
+Season 01,Joe,Ihor Potieria,Mauricio Rua,-200,W, 245:00,Round 1 TKO,Light Heavyweight,Prelim,M,H. Dean
+Season 01,Joe,Derrick Lewis,Serghei Spivac,190,L, 185:00,Round 1 Sub,Heavyweight,Main Card,M,M. Goddard
+Season 01,Kanta,Jailton Almeida,Shamil Abdurakhimov,-1100,W, 476:00,Round 2 TKO,Heavyweight,E-Prelim,M,F. Portella
+Season 01,Kanta,Tatsuro Taira,Jesus Aguilar,-1200,W, 260:00,Round 1 Sub,Flyweight,Prelim,M,C. Tognoni
+Season 01,Kanta,Justin Tafa,Parker Porter,-120,W, 65:00,Round 1 TKO,Heavyweight,Main Card,M,J. Herzog
+Season 01,Kanta,Mayra Bueno Silva,Lina Lansberg,-500,W, 585:00,Round 2 Sub,Bantamweight (W),Prelim,F,J. Montalvo
+Season 01,Kanta,Augusto Sakai,Don'Tale Mayes,-135,W, 900:00,UD,Heavyweight,Main Card,M,K. Hatley
+Season 01,Kanta,Ian Garry,Kenan Song,-770,W, 862:00,Round 3 TKO,Welterweight,E-Prelim,M,M. Goddard
+Season 01,Kanta,Petr Yan,Merab Dvalishvili,-275,L, 1500:00,UD,Bantamweight,Main Card,M,H. Dean
+Season 01,Rav,Johnny Walker,Paul Craig,-190,W, 136:00,Round 1 TKO,Light Heavyweight,Main Card,M,M. Goddard
+Season 01,Rav,Da-Woon Jung,Devin Clark,-250,L, 900:00,UD,Light Heavyweight,Main Card,M,M. Goddard
+Season 01,Taylan,Gilbert Burns,Neil Magny,-550,W, 255:00,Round 1 Sub,Welterweight,Main Card,M,F. Portella
+Season 01,Taylan,Tatsuro Taira,Jesus Aguilar,-1200,W, 260:00,Round 1 Sub,Flyweight,Prelim,M,C. Tognoni
+Season 01,Taylan,Alexander Volkanovski,Islam Makhachev,300,L, 1500:00,UD,Lightweight,Main Card,M,M. Goddard
+Season 02,Aaron,Gilbert Burns,Jorge Masvidal,-450,W, 900:00,UD,Welterweight,Main Card,M,M. Goddard
+Season 02,Aaron,Rafa Garcia,Clay Guida,-270,W, 900:00,UD,Lightweight,Main Card,M,D. Bess
+Season 02,Aaron,King Green,Jared Gordon,-275,W, 275:00,NC,Lightweight,Main Card,M,K. Peterson
+Season 02,Aaron,Ricky Simon,Song Yadong,-125,L, 1270:00,Round 5 TKO,Bantamweight,Main Card,M,H. Dean
+Season 02,Alex,Raul Rosas Jr,Christian Rodriguez,-250,L, 900:00,UD,Catchweight,Main Card,M,K. Peterson
+Season 02,Chika,Gilbert Burns,Jorge Masvidal,-450,W, 900:00,UD,Welterweight,Main Card,M,M. Goddard
+Season 02,Chika,Max Holloway,Arnold Allen,-185,W, 1500:00,UD,Featherweight,Main Card,M,J. Herzog
+Season 02,Chika,Jared Gordon,King Green,215,W, 275:00,NC,Lightweight,Main Card,M,K. Peterson
+Season 02,Chika,Jamey-Lyn Horth,Hailey Cowan,-160,W, 900:00,UD,Catchweight,Prelim,F,C. Tognoni
+Season 02,Chika,Movsar Evloev,Diego Lopes,-1000,W, 900:00,UD,Featherweight,Main Card,M,K. Peterson
+Season 02,Chika,Ian Machado Garry,Daniel Rodriguez,-300,W, 177:00,Round 1 TKO,Welterweight,Main Card,M,D. Miragliotta
+Season 02,Chika,Edmen Shahbazyan,Anthony Hernandez,170,L, 661:00,Round 3 TKO,Middleweight,Main Card,M,H. Dean
+Season 02,Daniel,Gilbert Burns,Jorge Masvidal,-450,W, 900:00,UD,Welterweight,Main Card,M,M. Goddard
+Season 02,Daniel,Chris Gutierrez,Pedro Munhoz,-215,L, 900:00,UD,Bantamweight,Main Card,M,J. Herzog
+Season 02,Goro,Alex Pereira,Israel Adesanya,125,L, 561:00,Round 2 TKO,Middleweight,Main Card,M,D. Miragliotta
+Season 02,Ian,Jaqueline Amorim,Sam Hughes,-275,L, 900:00,UD,Strawweight (W),E-Prelim,F,A. Glenn
+Season 02,Joe,Alex Pereira,Israel Adesanya,125,L, 561:00,Round 2 TKO,Middleweight,Main Card,M,D. Miragliotta
+Season 02,Kanta,Alex Pereira,Israel Adesanya,125,L, 561:00,Round 2 TKO,Middleweight,Main Card,M,D. Miragliotta
+Season 02,Rav,Gilbert Burns,Jorge Masvidal,-450,W, 900:00,UD,Welterweight,Main Card,M,M. Goddard
+Season 02,Rav,Rafa Garcia,Clay Guida,-270,W, 900:00,UD,Lightweight,Main Card,M,D. Bess
+Season 02,Rav,Montel Jackson,Rani Yahya,-600,W, 222:00,Round 1 TKO,Bantamweight,Prelim,M,K. Peterson
+Season 02,Rav,Caio Borralho,Michal Oleksiejczuk,-375,W, 469:00,Round 2 Sub,Middleweight,Main Card,M,J. Herzog
+Season 02,Rav,Movsar Evloev,Diego Lopes,-1000,W, 900:00,UD,Featherweight,Main Card,M,K. Peterson
+Season 02,Rav,Ian Machado Garry,Daniel Rodriguez,-300,W, 177:00,Round 1 TKO,Welterweight,Main Card,M,D. Miragliotta
+Season 02,Rav,Natalia Silva,Victoria Leonardo,-1000,W, 178:00,Round 1 TKO,Flyweight (W),Prelim,F,K. Hatley
+Season 02,Rav,Jaime Mullarkey,Muhammad Naimov,-450,L, 479:00,Round 2 TKO,Lightweight,Prelim,M,H. Dean
+Season 02,Taylan,Israel Adesanya,Alex Pereira,-150,W, 561:00,Round 2 TKO,Middleweight,Main Card,M,D. Miragliotta
+Season 02,Taylan,Rafa Garcia,Clay Guida,-270,W, 900:00,UD,Lightweight,Main Card,M,D. Bess
+Season 02,Taylan,Montel Jackson,Rani Yahya,-600,W, 222:00,Round 1 TKO,Bantamweight,Prelim,M,K. Peterson
+Season 02,Taylan,Jamey-Lyn Horth,Hailey Cowan,-160,W, 900:00,UD,Catchweight,Prelim,F,C. Tognoni
+Season 02,Taylan,Movsar Evloev,Diego Lopes,-1000,W, 900:00,UD,Featherweight,Main Card,M,K. Peterson
+Season 02,Taylan,Carlos Ulberg,Ihor Potieria,-450,W, 129:00,Round 1 TKO,Light Heavyweight,Main Card,M,K. Peterson
+Season 02,Taylan,Natalia Silva,Victoria Leonardo,-1000,W, 178:00,Round 1 TKO,Flyweight (W),Prelim,F,K. Hatley
+Season 02,Taylan,Jaime Mullarkey,Muhammad Naimov,-450,L, 479:00,Round 2 TKO,Lightweight,Prelim,M,H. Dean
+Season 03,Aaron,Brendan Allen,Bruno Silva,-200,W, 279:00,Round 1 Sub,Middleweight,Main Card,M,M. Goddard
+Season 03,Aaron,Grant Dawson,Damir Ismagulov,-110,W, 900:00,UD,Lightweight,Main Card,M,H. Dean
+Season 03,Aaron,Robert Whittaker,Dricus Du Plessis,-350,L, 443:00,Round 2 TKO,Middleweight,Main Card,M,M. Goddard
+Season 03,Alex,Randy Brown,Wellington Thurman,-230,W, 900:00,UD,Welterweight,Prelim,M,A. Glenn
+Season 03,Alex,Joanderson Brito,Weslin Wilson,-1400,W, 174:00,Round 1 TKO,Featherweight,Prelim,M,C. Tognoni
+Season 03,Alex,Tatsuro Taira,Edgar Chairez,-900,W, 900:00,UD,Catchweight,Prelim,M,H. Dean
+Season 03,Alex,Azat Maksum,Tyson Nam,-420,W, 900:00,SD,Flyweight,Prelim,M,K. Peterson
+Season 03,Alex,Tom Aspinall,Marcin Tybura,-475,W, 73:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 03,Alex,Gabriel Bonfim,Trevin Giles,-350,W, 73:00,Round 1 Sub,Welterweight,Prelim,M,H. Dean
+Season 03,Alex,Cory Sandhagen,Rob Font,-350,W, 1500:00,UD,Catchweight,Main Card,M,J. Herzog
+Season 03,Alex,Hakeem Dawodu,Cub Swanson,-225,L, 900:00,UD,Featherweight,Main Card,M,J. Herzog
+Season 03,Chika,Ilia Topuria,Josh Emmett,-340,W, 1500:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 03,Chika,Ismael Bonfim,Benoit Saint-Denis,-320,L, 288:00,Round 1 Sub,Lightweight,Main Card,M,H. Dean
+Season 03,Daniel,Ilia Topuria,Josh Emmett,-340,W, 1500:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 03,Daniel,Joanderson Brito,Weslin Wilson,-1400,W, 174:00,Round 1 TKO,Featherweight,Prelim,M,C. Tognoni
+Season 03,Daniel,Bo Nickal,Val Woodburn,-1600,W, 38:00,Round 1 TKO,Middleweight,Main Card,M,C. Tognoni
+Season 03,Daniel,Jack Della Maddalena,Bassil Hafez,-575,W, 900:00,SD,Welterweight,Main Card,M,M. Smith
+Season 03,Daniel,Tom Aspinall,Marcin Tybura,-475,W, 73:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 03,Daniel,Gabriel Bonfim,Trevin Giles,-350,W, 73:00,Round 1 Sub,Welterweight,Prelim,M,H. Dean
+Season 03,Daniel,Cory Sandhagen,Rob Font,-350,W, 1500:00,UD,Catchweight,Main Card,M,J. Herzog
+Season 03,Daniel,Khalil Rountree Jr,Chris Daukaus,-175,W, 160:00,Round 1 TKO,Light Heavyweight,Main Card,M,H. Dean
+Season 03,Goro,Ilia Topuria,Josh Emmett,-340,W, 1500:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 03,Goro,Brunno Ferreira,Nursulton Ruziboev,-225,L, 77:00,Round 1 TKO,Middleweight,Main Card,M,M. Smith
+Season 03,Ian,Tabatha Ricci,Gillian Robertson,-135,W, 900:00,UD,Strawweight (W),Prelim,F,K. Peterson
+Season 03,Ian,Micheal Morales,Max Griffin,-250,W, 900:00,UD,Welterweight,Main Card,M,K. Hatley
+Season 03,Ian,Jalin Turner,Dan Hooker,-300,L, 900:00,SD,Catchweight,Main Card,M,M. Smith
+Season 03,Joe,Tabatha Ricci,Gillian Robertson,-135,W, 900:00,UD,Strawweight (W),Prelim,F,K. Peterson
+Season 03,Joe,Melissa Gatto,Ariane Lipski,-240,L, 900:00,SD,Flyweight,Main Card,F,C. Tognoni
+Season 03,Kanta,Tabatha Ricci,Gillian Robertson,-135,W, 900:00,UD,Strawweight (W),Prelim,F,K. Peterson
+Season 03,Kanta,Micheal Morales,Max Griffin,-250,W, 900:00,UD,Welterweight,Main Card,M,K. Hatley
+Season 03,Kanta,Tatsuro Taira,Edgar Chairez,-900,W, 900:00,UD,Catchweight,Prelim,M,H. Dean
+Season 03,Kanta,Azat Maksum,Tyson Nam,-420,W, 900:00,SD,Flyweight,Prelim,M,K. Peterson
+Season 03,Kanta,Molly McCann,Julija Stoliarenko,-210,L, 115:00,Round 1 TKO,Flyweight (W),Main Card,F,J. Herzog
+Season 03,Rav,Ilia Topuria,Josh Emmett,-340,W, 1500:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 03,Rav,Joanderson Brito,Weslin Wilson,-1400,W, 174:00,Round 1 TKO,Featherweight,Prelim,M,C. Tognoni
+Season 03,Rav,Bo Nickal,Val Woodburn,-1600,W, 38:00,Round 1 TKO,Middleweight,Main Card,M,C. Tognoni
+Season 03,Rav,Jack Della Maddalena,Bassil Hafez,-575,W, 900:00,SD,Welterweight,Main Card,M,M. Smith
+Season 03,Rav,Tom Aspinall,Marcin Tybura,-475,W, 73:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 03,Rav,Bobby Green,Tony Ferguson,-375,W, 894:00,Round 3 Sub,Lightweight,Main Card,M,D. Miragliotta
+Season 03,Rav,Cory Sandhagen,Rob Font,-350,W, 1500:00,UD,Catchweight,Main Card,M,J. Herzog
+Season 03,Rav,Rafael Dos Anjos,Vicente Luque,-125,L, 1500:00,UD,Welterweight,Main Card,M,M. Smith
+Season 03,Scott,Ilia Topuria,Josh Emmett,-340,W, 1500:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 03,Scott,,,,L,,,,,,
+Season 03,Taylan,Maycee Barber,Amanda Ribas,165,W, 522:00,Round 2 TKO,Flyweight (W),Main Card,F,K. Peterson
+Season 03,Taylan,Joanderson Brito,Weslin Wilson,-1400,W, 174:00,Round 1 TKO,Featherweight,Prelim,M,C. Tognoni
+Season 03,Taylan,Alexander Volkanovski,Yair Rodriguez,-375,W, 859:00,Round 3 TKO,Featherweight,Main Card,M,H. Dean
+Season 03,Taylan,Jack Della Maddalena,Bassil Hafez,-575,W, 900:00,SD,Welterweight,Main Card,M,M. Smith
+Season 03,Taylan,Tom Aspinall,Marcin Tybura,-475,W, 73:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 03,Taylan,Jan Blachowicz,Alex Pereira,-110,L, 900:00,SD,Light Heavyweight,Main Card,M,M. Goddard
+Season 04,Aaron,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Aaron,Rose Namajunas,Manon Fiorot,160,L, 900:00,UD,Flyweight (W),Main Card,F,R. Mitchell
+Season 04,Alex,Junior Tafa,Parker Porter,-145,W, 84:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 04,Alex,Benoit Saint-Denis,Thiago Moises,-165,W, 584:00,Round 2 TKO,Lightweight,Main Card,M,L. Bosacki
+Season 04,Alex,Jack Jenkins,Chepe Mariscal,-210,L, 499:00,Round 2 TKO,Featherweight,Prelim,M,G. Kleynjans
+Season 04,Chika,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Chika,Ciryl Gane,Serghei Spivac,-175,W, 524:00,Round 2 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 04,Chika,Israel Adesanya,Sean Strickland,-650,L, 1500:00,UD,Middleweight,Main Card,M,M. Goddard
+Season 04,Daniel,Rinya Nakamura,Fernie Garcia,-800,W, 900:00,UD,Bantamweight,Main Card,M,K. Sataki
+Season 04,Daniel,Benoit Saint-Denis,Thiago Moises,-165,W, 584:00,Round 2 TKO,Lightweight,Main Card,M,L. Bosacki
+Season 04,Daniel,Israel Adesanya,Sean Strickland,-650,L, 1500:00,UD,Middleweight,Main Card,M,M. Goddard
+Season 04,Goro,Rinya Nakamura,Fernie Garcia,-800,W, 900:00,UD,Bantamweight,Main Card,M,K. Sataki
+Season 04,Goro,Bogdan Guskov,Volkan Oesdemir,155,L, 226:00,Round 1 Sub,Light Heavyweight,Main Card,M,M. Goddard
+Season 04,Ian,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Ian,Jacqueline Cavalcanti,Zarah Fairn,-380,W, 900:00,UD,Catchweight,Prelim,F,R. Mitchell
+Season 04,Ian,Carlos Ulberg,Da Un Jung,-280,W, 889:00,Round 3 Sub,Light Heavyweight,Prelim,M,H. Dean
+Season 04,Ian,Lupita Godinez,Elise Reed,-440,W, 518:00,Round 2 Sub,Strawweight (W),Prelim,F,H. Dean
+Season 04,Ian,Mohammed Usman,Jake Collier,-145,W, 900:00,UD,Heavyweight,Prelim,M,D. Miragliotta
+Season 04,Ian,Joe Pyfer,Abdul Razak Alhassan,-400,W, 425:00,Round 2 Sub,Middleweight,Main Card,M,M. Smith
+Season 04,Ian,Michel Pereira,Andre Petroski,-205,W, 66:00,Round 1 TKO,Middleweight,Main Card,M,C. Tognoni
+Season 04,Ian,Javid Basharat,Victor Henry,-600,W, 315:00,NC,Bantamweight,Prelim,M,L. Bosacki
+Season 04,Ian,Jailton Almeida,Derrick Lewis,-500,W, 1500:00,UD,Heavyweight,Main Card,M,M. Goddard
+Season 04,Ian,Sergei Pavlovich,Tom Aspinall,-105,L, 69:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 04,Joe,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Joe,Farid Basharat,Kleydson Rodrigues,-370,W, 255:00,Round 1 Sub,Bantamweight,Prelim,M,L. Para
+Season 04,Joe,Sean Strickland,Israel Adesanya,470,W, 1500:00,UD,Middleweight,Main Card,M,M. Goddard
+Season 04,Joe,Raul Rosas Jr,Terrence Mitchell,-750,W, 54:00,Round 1 TKO,Bantamweight,Main Card,M,M.Smith
+Season 04,Joe,Mohammed Usman,Jake Collier,-145,W, 900:00,UD,Heavyweight,Prelim,M,D. Miragliotta
+Season 04,Joe,Drew Dober,Ricky Glenn,-410,W, 156:00,Round 1 TKO,Lightweight,Main Card,M,C. Tognoni
+Season 04,Joe,Darren Elkins,TJ Brown,150,W, 743:00,Round 2 Sub,Featherweight,Prelim,M,K. Hatley
+Season 04,Joe,Viktoriia Duddakova,Jinh Yu Frey,-535,W, 900:00,UD,Catchweight,Prelim,F,D. Movahedi
+Season 04,Joe,Eduarda Moura,Montserrat Ruiz,-625,W, 434:00,Round 2 TKO,Catchweight,Prelim,F,J. C. Soares
+Season 04,Joe,Mateusz Rebecki,Roosevelt Roberts,-625,W, 188:00,Round 1 Sub,Catchweight,Prelim,M,M. Beltran
+Season 04,Kanta,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Kanta,Caolan Loughran,Taylor Lapilus,145,L, 900:00,UD,Bantamweight,Prelim,M,L. Bosacki
+Season 04,Rav,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Rav,Ciryl Gane,Serghei Spivac,-175,W, 524:00,Round 2 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 04,Rav,Israel Adesanya,Sean Strickland,-650,L, 1500:00,UD,Middleweight,Main Card,M,M. Goddard
+Season 04,Scott,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Scott,Ciryl Gane,Serghei Spivac,-175,W, 524:00,Round 2 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 04,Scott,,,,L,,,,,,
+Season 04,Taylan,Rinya Nakamura,Fernie Garcia,-800,W, 900:00,UD,Bantamweight,Main Card,M,K. Sataki
+Season 04,Taylan,Ciryl Gane,Serghei Spivac,-175,W, 524:00,Round 2 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 04,Taylan,Israel Adesanya,Sean Strickland,-650,L, 1500:00,UD,Middleweight,Main Card,M,M. Goddard
+Season 04,Ty,Max Holloway,Chan Sung Jung,-800,W, 623:00,Round 3 TKO,Featherweight,Main Card,M,M. Goddard
+Season 04,Ty,Ciryl Gane,Serghei Spivac,-175,W, 524:00,Round 2 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 04,Ty,Israel Adesanya,Sean Strickland,-650,L, 1500:00,UD,Middleweight,Main Card,M,M. Goddard
+Season 05,Aaron,Kelvin Gastelum,Sean Brady,100,L, 703:00,Round 3 Sub,Welterweight,Main Card,M,J. Montalvo
+Season 05,Aaron,Johnny Walker,Magomed Ankalaev,400,L, 462:00,Round 2 TKO,Light Heavyweight,Main Card,M,M. Goddard
+Season 05,Alex,Rodolfo Bellato,Ihor Potieria,-440,W, 557:00,Round 2 TKO,Light Heavyweight,Prelim,M,J. Montalvo
+Season 05,Alex,Song Yadong,Chris Gutierrez,-375,W, 1500:00,UD,Bantamweight,Main Card,M,H. Dean
+Season 05,Alex,Casey O'Neill,Ariane Lipski,-190,L, 378:00,Round 2 Sub,Flyweight (W),Prelim,F,M. Smith
+Season 05,Chika,Joaquim Silva,Clay Guida,-320,W, 900:00,UD,Lightweight,Main Card,M,M. Smith
+Season 05,Chika,Tatsuro Taira,Carlos Hernandez,-600,W, 355:00,Round 2 TKO,Flyweight,Prelim,M,M. Smith
+Season 05,Chika,Brandon Royval,Alexandre Pantoja,160,L, 1500:00,UD,Flyweight,Main Card,M,M. Goddard
+Season 05,Daniel,Rodolfo Bellato,Ihor Potieria,-440,W, 557:00,Round 2 TKO,Light Heavyweight,Prelim,M,J. Montalvo
+Season 05,Daniel,Hyun Sung Park,Shannon Ross,-600,W, 539:00,Round 2 TKO,Flyweight,Prelim,M,C. Tognoni
+Season 05,Daniel,Leon Edwards,Colby Covington,-160,W, 1500:00,UD,Welterweight,Main Card,M,H. Dean
+Season 05,Daniel,Waldo Cortes-Acosta,Andrei Arlovski,-750,W, 900:00,UD,Heavyweight,Main Card,M,M. Goddard
+Season 05,Daniel,Mike Malott,Neil Magny,-380,L, 885:00,Round 3 TKO,Welterweight,Main Card,M,K. MacDonald
+Season 05,Daniel,Yazmin Jauregui,Sam Hughes,-600,W, 900:00,UD,Strawweight (W),Main Card,F,H. Dean
+Season 05,Goro,Kelvin Gastelum,Sean Brady,100,L, 703:00,Round 3 Sub,Welterweight,Main Card,M,J. Montalvo
+Season 05,Ian,Kelvin Gastelum,Sean Brady,100,L, 703:00,Round 3 Sub,Welterweight,Main Card,M,J. Montalvo
+Season 05,Ian,Waldo Cortes-Acosta,Andrei Arlovski,-750,W, 900:00,UD,Heavyweight,Main Card,M,M. Goddard
+Season 05,Ian,Mike Malott,Neil Magny,-380,L, 885:00,Round 3 TKO,Welterweight,Main Card,M,K. MacDonald
+Season 05,Joe,Joaquim Silva,Clay Guida,-320,W, 900:00,UD,Lightweight,Main Card,M,M. Smith
+Season 05,Joe,Khalil Rountree Jr,Anthony Smith,-200,W, 656:00,Round 3 TKO,Light Heavyweight,Main Card,M,M. Smith
+Season 05,Joe,Dustin Jacoby,Alonzo Menifield,-270,L, 900:00,UD,Light Heavyweight,Prelim,M,C. Tognoni
+Season 05,Kanta,Punahele Soriano,Dustin Stoltzfus,-325,L, 550:00,Round 2 Sub,Middleweight,Main Card,M,K. Hatley
+Season 05,Noah,Jamey-Lyn Horth,Veronica Hardy,-190,L, 900:00,SD,Flyweight (W),Prelim,F,M. Smith
+Season 05,Rav,Deiveson Figueiredo,Rob Font,110,W, 900:00,UD,Bantamweight,Main Card,M,J. Rexroad
+Season 05,Rav,Song Yadong,Chris Gutierrez,-375,W, 1500:00,UD,Bantamweight,Main Card,M,H. Dean
+Season 05,Rav,Shavkat Rakhmonov,Stephen Thompson,-650,W, 595:00,Round 2 Sub,Welterweight,Main Card,M,J. Herzog
+Season 05,Rav,Magomed Ankalaev,Johnny Walker,-550,W, 462:00,Round 2 TKO,Light Heavyweight,Main Card,M,M. Goddard
+Season 05,Rav,Mike Malott,Neil Magny,-380,L, 885:00,Round 3 TKO,Welterweight,Main Card,M,K. MacDonald
+Season 05,Taylan,Rodolfo Bellato,Ihor Potieria,-440,W, 557:00,Round 2 TKO,Light Heavyweight,Prelim,M,J. Montalvo
+Season 05,Taylan,Tatsuro Taira,Carlos Hernandez,-600,W, 355:00,Round 2 TKO,Flyweight,Prelim,M,M. Smith
+Season 05,Taylan,Shavkat Rakhmonov,Stephen Thompson,-650,W, 595:00,Round 2 Sub,Welterweight,Main Card,M,J. Herzog
+Season 05,Taylan,Jean Silva,Westin Wilson,-950,W, 252:00,Round 1 TKO,Featherweight,Prelim,M,M. Goddard
+Season 05,Taylan,Mike Malott,Neil Magny,-380,L, 885:00,Round 3 TKO,Welterweight,Main Card,M,K. MacDonald
+Season 05,Taylan,,,,L,,,,,,
+Season 05,Ty,Joaquim Silva,Clay Guida,-320,W, 900:00,UD,Lightweight,Main Card,M,M. Smith
+Season 05,Ty,Khalil Rountree Jr,Anthony Smith,-200,W, 656:00,Round 3 TKO,Light Heavyweight,Main Card,M,M. Smith
+Season 05,Ty,Shavkat Rakhmonov,Stephen Thompson,-650,W, 595:00,Round 2 Sub,Welterweight,Main Card,M,J. Herzog
+Season 05,Ty,Farid Basharat,Taylor Lapilus,-280,W, 900:00,UD,Bantamweight,Prelim,M,C. Tognoni
+Season 05,Ty,Mike Malott,Neil Magny,-380,L, 885:00,Round 3 TKO,Welterweight,Main Card,M,K. MacDonald
+Season 06,Aaron,Petr Yan,Song Yadong,-155,W, 900:00,UD,Bantamweight,Main Card,M,K. Peterson
+Season 06,Aaron,Tai Tuivasa,Marcin Tybura,-115,L, 248:00,Round 1 Sub,Heavyweight,Main Card,M,H. Dean
+Season 06,Alex,Asu Almabayev,CJ Vargas,-600,W, 900:00,UD,Catchweight,E-Prelim,M,K. Peterson
+Season 06,Alex,Tai Tuivasa,Marcin Tybura,-115,L, 248:00,Round 1 Sub,Heavyweight,Main Card,M,H. Dean
+Season 06,Chika,Petr Yan,Song Yadong,-155,W, 900:00,UD,Bantamweight,Main Card,M,K. Peterson
+Season 06,Chika,Bryan Battle,Ange Loosa,-180,W, 360:00,NC,Welterweight,Main Card,M,M. Beltran
+Season 06,Chika,Rose Namajunas,Amanda Ribas,-210,W, 1500:00,UD,Flyweight (W),Main Card,F,J. Herzog
+Season 06,Chika,Bill Algeo,Kyle Nelson,-245,L, 249:00,Round 1 TKO,Featherweight,Main Card,M,G. Copeland
+Season 06,Daniel,Asu Almabayev,CJ Vargas,-600,W, 900:00,UD,Catchweight,E-Prelim,M,K. Peterson
+Season 06,Daniel,Kennedy Nzechukwu,Ovince St. Preux,-700,L, 900:00,SD,Light Heavyweight,Main Card,M,M. Smith
+Season 06,Goro,Song Yadong,Petr Yan,130,L, 900:00,UD,Bantamweight,Main Card,M,K. Peterson
+Season 06,Ian,Maycee Barber,Katlyn Cerminara,-205,W, 900:00,UD,Flyweight (W),Prelim,F,A. Glenn
+Season 06,Ian,Tai Tuivasa,Marcin Tybura,-115,L, 248:00,Round 1 Sub,Heavyweight,Main Card,M,H. Dean
+Season 06,Joe,Kevin Holland,Michael Page,-135,L, 900:00,UD,Welterweight,Main Card,M,A. Glenn
+Season 06,Kanta,Sean O'Malley,Marlon Vera,-275,W, 1500:00,UD,Bantamweight,Main Card,M,K. Peterson
+Season 06,Kanta,Tai Tuivasa,Marcin Tybura,-115,L, 248:00,Round 1 Sub,Heavyweight,Main Card,M,H. Dean
+Season 06,Noah,Asu Almabayev,CJ Vargas,-600,W, 900:00,UD,Catchweight,E-Prelim,M,K. Peterson
+Season 06,Noah,Bryan Battle,Ange Loosa,-180,W, 360:00,NC,Welterweight,Main Card,M,M. Beltran
+Season 06,Noah,Fernando Padila,Luis Pajuelo,-165,W, 165:00,Round 1 Sub,Featherweight,Main Card,M,J. Herzog
+Season 06,Noah,Bruno Silva,Chris Weidman,-235,L, 738:00,UD,Middleweight,Main Card,M,G. Copeland
+Season 06,Noah,Ivana Petrovic,Liang Na,-500,W, 689:00,Round 3 Sub,Flyweight (W),Prelim,F,C. Togoni
+Season 06,Noah,Ismael Bonfim,Vinc Pichel,-550,W, 900:00,UD,Lightweight,E-Prelim,M,M. Beltran
+Season 06,Noah,Derrick Lewis,Rodrigo Nascimento,-165,W, 649:00,Round 3 TKO,Heavyweight,Main Card,M,J. Herzog
+Season 06,Noah,Tom Nolan,Victor Martinez,-500,W, 230:00,Round 1 TKO,Lightweight,Prelim,M,M. Smith
+Season 06,Noah,Jailton Almeida,Alexander Romanov,-350,W, 147:00,Round 1 Sub,Heavyweight,Prelim,M,V. Ribeiro
+Season 06,Noah,Brunno Ferreira,Dustin Stoltzfus,-275,W, 291:00,Round 1 TKO,Middleweight,Main Card,M,J. Herzog
+Season 06,Noah,Nate Maness,Jimmy Flick,-560,W, 900:00,UD,Flyweight,Prelim,M,M. Beltran
+Season 06,Noah,Sergei Pavlovich,Alexander Volkov,-245,L, 900:00,UD,Heavyweight,Main Card,M,M. Goddard
+Season 06,Rav,Maycee Barber,Katlyn Cerminara,-205,W, 900:00,UD,Flyweight (W),Prelim,F,A. Glenn
+Season 06,Rav,Kennedy Nzechukwu,Ovince St. Preux,-700,L, 900:00,SD,Light Heavyweight,Main Card,M,M. Smith
+Season 06,Rav,Jhonata Diniz,Austen Lane,-330,W, 432:00,Round 2 TKO,Heavyweight,Main Card,M,M. Smith
+Season 06,Rav,Caio Borralho,Paul Craig,-600,W, 430:00,Round 2 TKO,Middleweight,Main Card,M,M. Goddard
+Season 06,Rav,Derrick Lewis,Rodrigo Nascimento,-165,W, 649:00,Round 3 TKO,Heavyweight,Main Card,M,J. Herzog
+Season 06,Rav,Lerone Murphy,Edson Barboza,-150,W, 1500:00,UD,Featherweight,Main Card,M,H. Dean
+Season 06,Rav,Islam Makhachev,Dustin Poirier,-500,W, 1362:00,Round 5 Sub,Lightweight,Main Card,M,K. Peterson
+Season 06,Rav,Raul Rosas Jr,Ricky Turcios,-225,W, 442:00,Round 2 Sub,Bantamweight,Main Card,M,B. Grice
+Season 06,Rav,Asu Almabayev,Jose Johnson,-560,W, 900:00,UD,Flyweight,Main Card,M,H. Dean
+Season 06,Rav,Shara Magomedov,Antonio Trocoli,-650,W, 747:00,Round 3 TKO,Middleweight,Main Card,M,M. Goddard
+Season 06,Taylan,Michael Page,Kevin Holland,115,W, 900:00,UD,Welterweight,Main Card,M,A. Glenn
+Season 06,Taylan,Kennedy Nzechukwu,Ovince St. Preux,-700,L, 900:00,SD,Light Heavyweight,Main Card,M,M. Smith
+Season 06,Taylan,James Llontop,Chris Padilla,-450,L, 273:00,Round 1 Sub,Catchweight,Prelim,M,H. Dean
+Season 06,Ty,Mateusz Gamrot,Rafael Dos Anjos,-480,W, 900:00,UD,Lightweight,Main Card,M,D. Miragliotta
+Season 06,Ty,Kennedy Nzechukwu,Ovince St. Preux,-700,L, 900:00,SD,Light Heavyweight,Main Card,M,M. Smith
+Season 07,Aaron,Drew Dober,Jean Silva,100,L, 688:00,Round 3 TKO,Lightweight,Main Card,M,H. Dean
+Season 07,Alex,Gabriel Bonfim,Ange Loosa,-395,W, 900:00,UD,Welterweight,Main Card,M,D. Miragliotta
+Season 07,Alex,Jeong Yeong Lee,Hyder Amil,-185,L, 65:00,Round 1 TKO,Featherweight,Main Card,M,M. Smith
+Season 07,Chika,Gabriel Bonfim,Ange Loosa,-395,W, 900:00,UD,Welterweight,Main Card,M,D. Miragliotta
+Season 07,Chika,Steve Garcia,Seung Woo Choi,-150,W, 96:00,Round 1 TKO,Featherweight,Main Card,M,H. Dean
+Season 07,Chika,Arnold Allen,Giga Chikadze,-275,W, 900:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 07,Chika,Shamil Gaziev,Don'Tale Mayes,-270,W, 900:00,UD,Heavyweight,Prelim,M,K. Peterson
+Season 07,Chika,Danny Barlow,Nikolay Veretennikov,-375,W, 900:00,SD,Catchweight,Main Card,M,M. Beltran
+Season 07,Chika,Israel Adesanya,Dricus Du Plessis,-135,L, 1118:00,Round 4 Sub,Middleweight,Main Card,M,M. Goddard
+Season 07,Conor,Gabriel Bonfim,Ange Loosa,-395,W, 900:00,UD,Welterweight,Main Card,M,D. Miragliotta
+Season 07,Conor,Cody Gibson,Brain Kelleher,-205,W, 236:00,Round 1 Sub,Bantamweight,Prelim,M,K. Hatley
+Season 07,Conor,Tom Aspinall,Curtis Blaydes,-400,W, 60:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 07,Conor,Alonzo Menifield,Azamat Murzakanov,175,L, 498:00,Round 2 TKO,Light Heavyweight,Prelim,M,D. Movahedi
+Season 07,Daniel,Evan Elder,Darrius Flowers,-420,W, 406:00,Round 2 Sub,Welterweight,Prelim,M,J. Ojeda
+Season 07,Daniel,Jeong Yeong Lee,Hyder Amil,-185,L, 65:00,Round 1 TKO,Featherweight,Main Card,M,M. Smith
+Season 07,Goro,Drew Dober,Jean Silva,100,L, 688:00,Round 3 TKO,Lightweight,Main Card,M,H. Dean
+Season 07,Ian,Rose Namajunas,Tracy Cortez,-280,W, 1500:00,UD,Flyweight (W),Main Card,F,H. Dean
+Season 07,Ian,Mohammed Usman,Thomas Peterson,-120,L, 900:00,UD,Heavyweight,Prelim,M,K. Hatley
+Season 07,Joe,Drew Dober,Jean Silva,100,L, 688:00,Round 3 TKO,Lightweight,Main Card,M,H. Dean
+Season 07,Kanta,Drew Dober,Jean Silva,100,L, 688:00,Round 3 TKO,Lightweight,Main Card,M,H. Dean
+Season 07,Noah,Rose Namajunas,Tracy Cortez,-280,W, 1500:00,UD,Flyweight (W),Main Card,F,H. Dean
+Season 07,Noah,,,,L,,,,,,
+Season 07,Rav,Rose Namajunas,Tracy Cortez,-280,W, 1500:00,UD,Flyweight (W),Main Card,F,H. Dean
+Season 07,Rav,Bruno Silva,Cody Durden,-110,W, 478:00,Round 2 TKO,Flyweight,Main Card,M,C. Tognoni
+Season 07,Rav,Tom Aspinall,Curtis Blaydes,-400,W, 60:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 07,Rav,Shara Magomedov,Michal Oleksiejczuk,-325,W, 900:00,UD,Middleweight,Main Card,M,D. Movahedi
+Season 07,Rav,Sergey Spivak,Marcin Tybura,-150,W, 104:00,Round 1 Sub ,Heavyweight,Main Card,M,H. Dean
+Season 07,Rav,Israel Adesanya,Dricus Du Plessis,-135,L, 1118:00,Round 4 Sub,Middleweight,Main Card,M,M. Goddard
+Season 07,Sam,Christian Rodriguez,Julian Erosa,-250,L, 289:00,Round 1 Sub,Featherweight,Main Card,M,N. Berens
+Season 07,Scott,Rose Namajunas,Tracy Cortez,-280,W, 1500:00,UD,Flyweight (W),Main Card,F,H. Dean
+Season 07,Scott,Mohammed Usman,Thomas Peterson,-120,L, 900:00,UD,Heavyweight,Prelim,M,K. Hatley
+Season 07,Taylan,Evan Elder,Darrius Flowers,-420,W, 406:00,Round 2 Sub,Welterweight,Prelim,M,J. Ojeda
+Season 07,Taylan,Miranda Maverick,Dione Barbosa,-225,W, 900:00,UD,Flyweight (W),Prelim,F,C. Tognoni
+Season 07,Taylan,Tom Aspinall,Curtis Blaydes,-400,W, 60:00,Round 1 TKO,Heavyweight,Main Card,M,M. Goddard
+Season 07,Taylan,Kaue Fernandes,Mohammad Yahya,-395,W, 285:00,Round 1 TKO,Lightweight,Prelim,M,M. Goddard
+Season 07,Taylan,Youssef Zalal,Jarno Errens,-450,W, 232:00,Round 1 Sub,Featherweight,Prelim,M,M. Beltran
+Season 07,Taylan,Israel Adesanya,Dricus Du Plessis,-135,L, 1118:00,Round 4 Sub,Middleweight,Main Card,M,M. Goddard
+Season 07,Ty,Gabriel Bonfim,Ange Loosa,-395,W, 900:00,UD,Welterweight,Main Card,M,D. Miragliotta
+Season 07,Ty,Miranda Maverick,Dione Barbosa,-225,W, 900:00,UD,Flyweight (W),Prelim,F,C. Tognoni
+Season 07,Ty,Arnold Allen,Giga Chikadze,-275,W, 900:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 07,Ty,Shara Magomedov,Michal Oleksiejczuk,-325,W, 900:00,UD,Middleweight,Main Card,M,D. Movahedi
+Season 07,Ty,Youssef Zalal,Jarno Errens,-450,W, 232:00,Round 1 Sub,Featherweight,Prelim,M,M. Beltran
+Season 07,Ty,Tom Nolan,Alex Reyes,-1100,W, 900:00,UD,Lightweight,E-Prelim,M,R. Mitchell
+Season 08,Aaron,Gilbert Burns,Sean Brady,160,L, 1500:00,UD,Welterweight,Main Card,M,H. Dean
+Season 08,Alex,Gabriel Santos,Yizah,-265,W, 900:00,UD,Featherweight,Prelim,M,K. Hatley
+Season 08,Alex,Daniel Zellhuber,Esteban Rubovics,-190,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 08,Chika,Gilbert Burns,Sean Brady,160,L, 1500:00,UD,Welterweight,Main Card,M,H. Dean
+Season 08,Conor,Jaqueline Amorim,Vanessa Demopoulos,-310,W, 208:00,Round 1 Sub,Strawweight (W),Prelim,F,J. Montalvo
+Season 08,Conor,Daniel Zellhuber,Esteban Rubovics,-190,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 08,Daniel,Issac Dulgarian,Brendon Marotte,-2500,W, 559:00,Round 2 Sub,Featherweight,Prelim,M,M. Smith
+Season 08,Daniel,Raul Rosas Jr,Aoriqileng,-1000,W, 900:00,UD,Bantamweight,E-Prelim,M,C. Tognoni
+Season 08,Daniel,L'udovit Klein,Roosevelt Roberts,-1000,W, 900:00,UD,Lightweight,Prelim,M,C. Chapuis
+Season 08,Daniel,Alex Pereira,Khalil Rountree Jr,-480,W, 1172:00,Round 4 TKO,Light Heavyweight,Main Card,M,M. Goddard
+Season 08,Daniel,Grant Dawson,Rafa Garcia,-360,W, 402:00,Round 2 TKO,Lightweight,Main Card,M,C. Tognoni
+Season 08,Daniel,Robelis Despaigne,Austen Lane,-350,L, 900:00,UD,Heavyweight,Prelim,M,M. Smith
+Season 08,Daniel,Mike Malott,Trevin Giles,-320,W, 900:00,UD,Welterweight,Main Card,M,A. Social
+Season 08,Daniel,Carlos Prates,Neil Magny,-800,W, 290:00,Round 1 TKO,Welterweight,Main Card,M,M. Smith
+Season 08,Daniel,Jon Jones,Stipe Miocic,-650,W, 869:00,Round 3 TKO,Heavyweight,Main Card,M,H. Dean
+Season 08,Daniel,Wang Cong,Gabriella Fernandes,-950,L, 529:00,Round 2 Sub,Flyweight (W),Main Card,F,M. Goddard
+Season 08,Goro,Trevor Peek,Yanal Ashmouz,-125,L, 900:00,UD,Lightweight,Main Card,M,H. Dean
+Season 08,Ian,Andre Petroski,Dylan Budka,-265,W, 900:00,UD,Catchweight,Prelim,M,M. Smith
+Season 08,Ian,Diego Lopes,Brian Ortega,-195,W, 900:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 08,Ian,Benoit St. Denis,Renato Moicano,-290,L, 600:00,Round 2 TKO,Lightweight,Main Card,M,M. Goddard
+Season 08,Joe,Jessica Andrade,Natalia Silva,250,L, 900:00,UD,Flyweight (W),Main Card,F,K. Hatley
+Season 08,Kanta,Issac Dulgarian,Brendon Marotte,-2500,W, 559:00,Round 2 Sub,Featherweight,Prelim,M,M. Smith
+Season 08,Kanta,Raul Rosas Jr,Aoriqileng,-1000,W, 900:00,UD,Bantamweight,E-Prelim,M,C. Tognoni
+Season 08,Kanta,Bryan Battle,Kevin Jousset,-160,W, 527:00,Round 2 TKO,Welterweight,Main Card,M,H. Dean
+Season 08,Kanta,Mario Bautista,Jose Aldo,-125,W, 900:00,SD,Bantamweight,Main Card,M,M. Beltran
+Season 08,Kanta,Tatsuro Taira,Brandon Royval,-310,L, 1500:00,SD,Flyweight,Main Card,M,J. Herzog
+Season 08,Kanta,Charles Jourdain,Victor Henry,-140,W, 523:00,Round 2 Sub,Bantamweight,Prelim,M,B. Grice
+Season 08,Kanta,Tresean Gore,Antonio Trocoli,-175,W, 83:00,Round 1 Sub,Middleweight,Prelim,M,K. Hatley
+Season 08,Kanta,Jim MIller,Damon Jackson,150,W, 164:00,Round 1 Sub,Lightweight,Prelim,M,K. Peterson
+Season 08,Kanta,Carlos Ulberg,Volkan Oezdemir,-230,W, 900:00,UD,Light Heavyweight,Main Card,M,M. Beltran
+Season 08,Noah,Sean Brady,Gilbert Burns,-190,W, 1500:00,UD,Welterweight,Main Card,M,H. Dean
+Season 08,Noah,Valentina Shevchenko,Alexa Grasso,105,W, 1500:00,UD,Flyweight (W),Main Card,F,M. Smith
+Season 08,Noah,Benoit St. Denis,Renato Moicano,-290,L, 600:00,Round 2 TKO,Lightweight,Main Card,M,M. Goddard
+Season 08,Rav,Gilbert Burns,Sean Brady,160,L, 1500:00,UD,Welterweight,Main Card,M,H. Dean
+Season 08,Sam,Natalia Silva,Jessica Andrade,-320,W, 900:00,UD,Flyweight (W),Main Card,F,K. Hatley
+Season 08,Sam,,,,L,,,,,,
+Season 08,Sam,Ramazonbek Temirov,CJ Vergara,-350,W, 170:00,Round 1 TKO,Flyweight,Prelim,M,J. Herzog
+Season 08,Sam,Kyler Philips,Rob Font,-455,L, 900:00,UD,Bantamweight,Main Card,M,K. Peterson
+Season 08,Scott,,,,L,,,,,,
+Season 08,Taylan,Issac Dulgarian,Brendon Marotte,-2500,W, 559:00,Round 2 Sub,Featherweight,Prelim,M,M. Smith
+Season 08,Taylan,Raul Rosas Jr,Aoriqileng,-1000,W, 900:00,UD,Bantamweight,E-Prelim,M,C. Tognoni
+Season 08,Taylan,,,,L,,,,,,
+Season 08,Ty,Issac Dulgarian,Brendon Marotte,-2500,W, 559:00,Round 2 Sub,Featherweight,Prelim,M,M. Smith
+Season 08,Ty,Diego Lopes,Brian Ortega,-195,W, 900:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 08,Ty,Oumar Sy,Da Woon Jung,-600,W, 900:00,UD,Light Heavyweight,Prelim,M,R. Mitchell
+Season 08,Ty,Kayla Harrison,Ketlen Vieira,-1100,W, 900:00,UD,Bantamweight (W),Main Card,F,M. Goddard
+Season 08,Ty,Themba Gorimbo,Niko Price,-310,W, 900:00,UD,Welterweight,Prelim,M,H. Dean
+Season 08,Ty,Robelis Despaigne,Austen Lane,-350,L, 900:00,UD,Heavyweight,Prelim,M,M. Smith
+Season 09,Aaron,Jamey-Lyn Horth,Miranda Maverick,525,L, 900:00,UD,Flyweight (W),Prelim,F,A. Glenn
+Season 09,Alex,Felipe Lima,Miles Johns,-260,W, 900:00,UD,Featherweight,Prelim,M,J. Herzog
+Season 09,Alex,Magomed Gadzhiyasulov,Bruno Lopes,-275,L, 900:00,UD,Light Heavyweight,Prelim,M,M. Smith
+Season 09,Chika,Billy Quarantillo,Cub Swanson,-160,L, 696:00,Round 3 TKO,Featherweight,Main Card,M,J. Herzog
+Season 09,Conor,Navajo Stirling,Tuco Tokkos,-900,W, 900:00,UD,Light Heavyweight,Main Card,M,D. Miragliotta
+Season 09,Conor,Santiago Ponzinibbio,Carlston Harris,-140,W, 793:00,Round 3 TKO,Welterweight,Main Card,M,K. Hatley
+Season 09,Conor,Jiri Prochazka,Jamahal Hill,110,W, 781:00,Round 3 TKO,Light Heavyweight,Main Card,M,M. Beltran
+Season 09,Conor,Isreal Adesanya,Nassourdine Imavov,-165,L, 330:00,Round 2 TKO,Middleweight,Main Card,M,M. Goddard
+Season 09,Daniel,Joaquin Buckley,Colby Covington,-225,W, 882:00,Round 3 TKO,Welterweight,Main Card,M,D. Miragliotta
+Season 09,Daniel,Fatima Kline,Victoria Dudakova,-900,W, 567:00,Round 2 TKO,Strawweight (W),Prelim,F,C. Tognoni
+Season 09,Daniel,Payton Talbott,Raoni Barcelos,-1150,L, 900:00,UD,Bantamweight,Prelim,M,H. Dean
+Season 09,Felix,Manel Kape,Bruno Silva,-400,W, 717:00,Round 3 TKO,Flyweight,Main Card,M,K. Peterson
+Season 09,Felix,Roman Kopylov,Chris Curtis,-230,W, 899:00,Round 3 TKO,Middleweight,Main Card,M,M. Smith
+Season 09,Felix,Payton Talbott,Raoni Barcelos,-1150,L, 900:00,UD,Bantamweight,Prelim,M,H. Dean
+Season 09,Goro,Sean Woodson,Fernando Padilla,-150,W, 298:00,Round 1 TKO,Featherweight,Prelim,M,A. Glenn
+Season 09,Goro,Roman Kopylov,Chris Curtis,-230,W, 899:00,Round 3 TKO,Middleweight,Main Card,M,M. Smith
+Season 09,Goro,Rinya Nakamura,Muin Gafurov,-600,L, 900:00,UD,Bantamweight,E-Prelim,M,J. Herzog
+Season 09,Ian,Miranda Maverick,Jamey-Lyn Horth,-750,W, 900:00,UD,Flyweight (W),Prelim,F,A. Glenn
+Season 09,Ian,Cesar Almeida,Abdul Razak Alhassan,-265,W, 256:00,Round 1 TKO,Middleweight,Main Card,M,M. Beltran
+Season 09,Ian,Islam Makhachev,Renato Moicano,-950,W, 245:00,Round 1 Sub,Lightweight,Main Card,M,H. Dean
+Season 09,Ian,Shamil Gaziev,Thomas Peterson,-350,W, 192:00,Round 1 TKO,Heavyweight,Prelim,M,J. Herzog
+Season 09,Ian,Kevin Jousset,Jonathan Micallef,-210,L, 900:00,UD,Welterweight,E-Prelim,M,R. Mitchell
+Season 09,Joe,,,,L,,,,,,
+Season 09,Kanta,Jamey-Lyn Horth,Miranda Maverick,525,L, 900:00,UD,Flyweight (W),Prelim,F,A. Glenn
+Season 09,Kanta,Bogdan Grad,Lucas Alexander,100,W, 562:00,Round 2 TKO,Catchweight,Prelim,M,K. Hatley
+Season 09,Kanta,Justin Tafa,Tallison Teixeira,130,L, 35:00,Round 1 TKO,Heavyweight,Main Card,M,R. Mitchell
+Season 09,Noah,Sean Woodson,Fernando Padilla,-150,W, 298:00,Round 1 TKO,Featherweight,Prelim,M,A. Glenn
+Season 09,Noah,,,,L,,,,,,
+Season 09,Rav,Colby Covington,Joaquin Buckley,185,L, 882:00,Round 3 TKO,Welterweight,Main Card,M,D. Miragliotta
+Season 09,Rav,Isreal Adesanya,Nassourdine Imavov,-165,L, 330:00,Round 2 TKO,Middleweight,Main Card,M,M. Goddard
+Season 09,Sam,Joaquin Buckley,Colby Covington,-225,W, 882:00,Round 3 TKO,Welterweight,Main Card,M,D. Miragliotta
+Season 09,Sam,Roman Kopylov,Chris Curtis,-230,W, 899:00,Round 3 TKO,Middleweight,Main Card,M,M. Smith
+Season 09,Sam,Islam Makhachev,Renato Moicano,-950,W, 245:00,Round 1 Sub,Lightweight,Main Card,M,H. Dean
+Season 09,Sam,Sergei Pavlovich,Jairzinho Rozenstruik,-290,W, 900:00,UD,Heavyweight,Main Card,M,M. Smith
+Season 09,Sam,Dricus Du Plessis,Sean Strickland,-210,W, 1500:00,UD,Middleweight,Main Card,M,M. Goddard
+Season 09,Scott,Josefine Knutsson,Piera Rodriguez,-260,L, 900:00,UD,Strawweight (W),Prelim,F,J. Herzog
+Season 09,Taylan,Joel Alvarez,Drakkar Klose,-500,W, 168:00,Round 1 TKO,Lightweight,Prelim,M,D. Miragliotta
+Season 09,Taylan,Marco Tulio,Ihor Potieria,-530,W, 184:00,Round 1 TKO,Catchweight,Prelim,M,M. Smith
+Season 09,Taylan,Payton Talbott,Raoni Barcelos,-1150,L, 900:00,UD,Bantamweight,Prelim,M,H. Dean
+Season 09,Ty,Manel Kape,Bruno Silva,-400,W, 717:00,Round 3 TKO,Flyweight,Main Card,M,K. Peterson
+Season 09,Ty,Roman Kopylov,Chris Curtis,-230,W, 899:00,Round 3 TKO,Middleweight,Main Card,M,M. Smith
+Season 09,Ty,Payton Talbott,Raoni Barcelos,-1150,L, 900:00,UD,Bantamweight,Prelim,M,H. Dean
+Season 10,Aaron,Melquizael Costa,Andre Fili,-130,W, 270:00,Round 1 Sub,Featherweight,Prelim,M,J. Hoiby
+Season 10,Aaron,JJ Aldrich,Andrea Lee,-190,W, 900:00,UD,Flyweight (W),Prelim,F,C. Tognoni
+Season 10,Aaron,Mauricio Ruffy,King Green,-480,W, 127:00,Round 1 TKO,Lightweight,Main Card,M,C. Tognoni
+Season 10,Aaron,Roman Dolidze,Marvin Vettori,135,W, 1500:00,UD,Middleweight,Main Card,M,H. Dean
+Season 10,Aaron,Nathaniel Wood,Morgan Charriere,-110,W, 900:00,UD,Featherweight,Main Card,M,M. Goddard
+Season 10,Aaron,Drew Dober,Manuel Torres,105,L, 105:00,Round 1 TKO,Lightweight,Main Card,M,M. Beltran
+Season 10,Alex,Jean Silva,Melsik Baghdasaryan,-550,W, 255:00,Round 1 TKO,Featherweight,Main Card,M,K. MacDonald
+Season 10,Alex,Danny Silva,Lucas Almeida,-260,W, 900:00,SD,Catchweight,Prelim,M,M. Beltran
+Season 10,Alex,Mauricio Ruffy,King Green,-480,W, 127:00,Round 1 TKO,Lightweight,Main Card,M,C. Tognoni
+Season 10,Alex,Kevin Vallejos,Choi Seung-Woo,-600,W, 189:00,Round 1 TKO,Featherweight,Main Card,M,K. Hatley
+Season 10,Alex,Alexia Thainara,Molly McCann,-205,W, 272:00,Round 1 Sub,Strawweight (W),Main Card,F,L. Bosacki
+Season 10,Alex,Joe Pyfer,Kelvin Gastelum,-320,W,,,Middleweight,Main Card,M,
+Season 10,Alex,Torrez Finney,Robert Valentin,-325,W, 900:00,SD,Middleweight,Main Card,M,M. Beltran
+Season 10,Alex,Jean Silva,Bryce Mitchell,-205,W, 532:00,Round 2 Sub,Featherweight,Main Card,M,M. Beltran
+Season 10,Chika,Rob Font,Jean Matsumoto,130,W, 900:00,SD,Catchweight,Main Card,M,K. Peterson
+Season 10,Chika,Manel Kape,Asu Almabayev,-220,W, 736:00,Round 3 TKO,Flyweight,Main Card,M,M. Beltran
+Season 10,Chika,Justin Gaethje,Rafael Fiziev,135,W, 900:00,UD,Lightweight,Main Card,M,J. Herzog
+Season 10,Chika,Alexander Hernandez,Kurt Holobaugh,-205,W, 900:00,UD,Lightweight,Main Card,M,K. Hatley
+Season 10,Chika,Leon Edwards,Sean Brady,110,L, 999:00,Round 4 Sub,Welterweight,Main Card,M,J. Herzog
+Season 10,Conor,Jean Silva,Melsik Baghdasaryan,-550,W, 255:00,Round 1 TKO,Featherweight,Main Card,M,K. MacDonald
+Season 10,Conor,Esteban Ribovics,Nasrat Haqparast,-265,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 10,Daniel,Mansur Abdul-Malik,Nick Klein,-1350,W, 504:00,Round 2 TKO,Middleweight,Prelim,M,J. Herzog
+Season 10,Daniel,Esteban Ribovics,Nasrat Haqparast,-265,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 10,Felix,,,,L,,,,,,
+Season 10,Goro,Anthony Hernandez,Brendan Allen,-330,W, 900:00,UD,Middleweight,Main Card,M,M. Beltran
+Season 10,Goro,Hyder Amil,William Gomis,180,W, 900:00,SD,Featherweight,Main Card,M,C. Tognoni
+Season 10,Goro,Joshua Van,Rei Tsuruya,-165,W, 900:00,UD,Flyweight,Prelim,M,J. Herzog
+Season 10,Goro,Diyar Nurgozhay,Brendson Ribeiro,-400,L, 88:00,Round 1 Sub,Catchweight,Main Card,M,H. Dean
+Season 10,Ian,Alonzo Menifield,Julius Walker,-245,W, 900:00,SD,Light Heavyweight,Main Card,M,J. Herzog
+Season 10,Ian,Esteban Ribovics,Nasrat Haqparast,-265,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 10,Joe,Austin Vanderford,Nikolay Veretennikov,-115,W, 553:00,Round 2 TKO,Catchweight,Prelim,M,K. MacDonald
+Season 10,Joe,Chepe Mariscal,Ricardo Ramos,-370,W, 900:00,UD,Featherweight,Prelim,M,J. Herzog
+Season 10,Joe,Mauricio Ruffy,King Green,-480,W, 127:00,Round 1 TKO,Lightweight,Main Card,M,C. Tognoni
+Season 10,Joe,Da'Mon Blackshear,Cody Gibson,-485,W, 549:00,Round 2 Sub,Bantamweight,Main Card,M,C. Tognoni
+Season 10,Joe,Kevin Holland,Gunnar Nelson,110,W, 900:00,UD,Welterweight,Main Card,M,D. Movahedi
+Season 10,Joe,Joe Pyfer,Kelvin Gastelum,-320,W,,,Middleweight,Main Card,M,nan
+Season 10,Joe,Torrez Finney,Robert Valentin,-325,W, 900:00,SD,Middleweight,Main Card,M,M. Beltran
+Season 10,Joe,Nikita Krylov,Dominick Reyes,-160,L, 144:00,Round 1 TKO,Light Heavyweight,Main Card,M,M. Goddard
+Season 10,Kanta,Jean Matsumoto,Rob Font,-160,L, 900:00,SD,Catchweight,Main Card,M,K. Peterson
+Season 10,Noah,Anthony Hernandez,Brendan Allen,-330,W, 900:00,UD,Middleweight,Main Card,M,M. Beltran
+Season 10,Noah,Esteban Ribovics,Nasrat Haqparast,-265,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 10,Rav,Song Yadong,Henry Cejudo,-260,W, 900:00,UD,Bantamweight,Main Card,M,J. Herzog
+Season 10,Rav,Manel Kape,Asu Almabayev,-220,W, 736:00,Round 3 TKO,Flyweight,Main Card,M,M. Beltran
+Season 10,Rav,Alex Pereira,Magomed Ankalaev,-120,L, 1500:00,UD,Light Heavyweight,Main Card,M,M. Goddard
+Season 10,Sam,Song Yadong,Henry Cejudo,-260,W, 900:00,UD,Bantamweight,Main Card,M,J. Herzog
+Season 10,Sam,Esteban Ribovics,Nasrat Haqparast,-265,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 10,Scott,Jean Silva,Melsik Baghdasaryan,-550,W, 255:00,Round 1 TKO,Featherweight,Main Card,M,K. MacDonald
+Season 10,Scott,Danny Barlow,Sam Patterson,-225,L, 190:00,Round 1 TKO,Welterweight,Main Card,M,M. Beltran
+Season 10,Taylan,Anthony Hernandez,Brendan Allen,-330,W, 900:00,UD,Middleweight,Main Card,M,M. Beltran
+Season 10,Taylan,Esteban Ribovics,Nasrat Haqparast,-265,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
+Season 10,Ty,Alonzo Menifield,Julius Walker,-245,W, 900:00,SD,Light Heavyweight,Main Card,M,J. Herzog
+Season 10,Ty,Esteban Ribovics,Nasrat Haqparast,-265,L, 900:00,SD,Lightweight,Main Card,M,J. Herzog
