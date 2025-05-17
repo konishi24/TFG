@@ -28,6 +28,8 @@ In "The Fight Game," relying on a strategy of consistently picking heavy favouri
 
 * **Data Cleaning**: The Excel file was exported as a CSV and imported into Python for further processing. Custom scripts (Extract_Player_Data.py, Export_Seasons_Data.py, Export_Average_Season_Data.py, Export_Average_Data.py, and Radar_Data.py) were employed to merge data from all ten seasons, standardize formats, and generate detailed data tables structured for analysis.
 
+ * **Designing**: Developed user interface prototypes and data visualization concepts using Figma to optimize the presentation of insights derived from the analysis. Iteratively refined dashboard layouts, color schemes, and interactive elements based on usability principles and stakeholder feedback, ensuring that final visualizations were both intuitive and visually engaging.
+
  * **Data Visualization**: Cleaned and aggregated datasets were imported into Power BI to develop interactive dashboards and visual reports. These visualizations enabled direct comparison of player performance across seasons, identification of emerging engagement trends, and clear illustration of player archetype distributions—delivering actionable insights to key stakeholders.
 
 * **Pilot Testing and Analysis**: Conducted a pilot test on the visualization to assess the potential impact of proposed game rule changes and features. The pilot test aimed to ensure that the visualization effectively communicated the story behind each player, provided actionable insights, and supported decision-making for refining the game and enhancing the overall user experience before full implementation.
